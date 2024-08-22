@@ -1,2 +1,3 @@
-flyt-env/**
+flyt-env/
 __pycache__
+.vscode
